@@ -44,6 +44,9 @@ Student Groups(Color)- The color filter visualizes the different races by making
 Student Groups(Text)- The text filter is used to show the exact percentage next to the dots on the graph. This provides the viewer with more reliable knowledge rather than just having to approximate the percent by looking at the x-axis.
 
 # Analysis/Results
+Question 1 - Graph One portrays that the school year of 2019-2020 had the highest attendance rate among the three school years listed. The years 2020-2021 and 2021-2022 stayed consistent, but there was a significant drop-off after 2019-2020. The attendance rate by race stayed pretty consistent. The attendance of the white race was a dominant leader in all three school years. The white race attendance started at around 245,000 and declined to around 235,000. Hispanic/Latino attendance remained consistent at around 100,000-125,0000. Black was third, with around an attendance of 50,000-75,000. Lastly, we had All other Races at a consistent number of around 40,000.
+
+Question 2 - 
 
 # Tableau 
 #### Question 1
