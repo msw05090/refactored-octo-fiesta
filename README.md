@@ -46,7 +46,9 @@ Student Groups(Text)- The text filter is used to show the exact percentage next 
 # Analysis/Results
 
 # Tableau 
-## Question 2
+#### Question 1
+![Q1](https://github.com/msw05090/refactored-octo-fiesta/assets/163200076/25175a65-d300-41f1-bf78-00c2ba060cac)
+#### Question 2
 ![Q2](https://github.com/msw05090/refactored-octo-fiesta/assets/163200076/d4d97481-7b4f-4399-8106-681f47a54027)
 
 
