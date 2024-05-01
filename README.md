@@ -16,7 +16,7 @@ Question 1 - Question 1 allowed us to take Connecticut's attendance mass data an
 Question 2 - What was the variance in attendance rates between the different races of students in the years 2021 and 2022?
 This question is very informative in many ways. First off, socially, it can be helpful to see the attendance disparities among different races. Could there be barriers faced by a certain race within the district that doesn't allow them fair access to education?, the graphic generates thought provoking questions as so. Policymakers within the education system could view the graphic and make changes for targeted groups to improve opportunities for students of all races. Secondly, as far as economic impact, school funding can be correlated to attendance. If students are consistently present, schools will be more likely to receive money for their needs. Having information about the attendance allows the policymakers to distribute money and resources to schools in need. Lastly, the cultural impact. Having a diverse body of students in each district is important because it creates a more inclusive and healthy environment. All students feeling comfortable and included is of utmost importance. 
 
-# Data manipulations
+# Data Manipulations
 
 Graphic 1- Actual Attendance per Race by Year
 
@@ -42,6 +42,10 @@ Marks:
 Student Groups(Color)- The color filter visualizes the different races by making each one its own color. There is also a Student Group color key that goes along with each race.
 
 Student Groups(Text)- The text filter is used to show the exact percentage next to the dots on the graph. This provides the viewer with more reliable knowledge rather than just having to approximate the percent by looking at the x-axis.
+
+# Analysis/Results
+
+# Tableau Packaged Workbook
 
 
 
